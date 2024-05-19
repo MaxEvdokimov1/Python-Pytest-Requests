@@ -43,7 +43,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-Устанавливаем библиотеки
+4. Устанавливаем библиотеки
 
 ``` markdown
 python3 -m pip install requests
@@ -53,7 +53,7 @@ python3 -m pip install requests
 python3 -m pip install pytest
 ```
 
-Запускаем
+5. Запускаем
 ``` markdown
 pytest tests/test_pokemon.py
 ```
@@ -63,4 +63,4 @@ pytest tests/test_pokemon.py
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Максим Евдикомов ([@evdmax](https://t.me/evdmax))
